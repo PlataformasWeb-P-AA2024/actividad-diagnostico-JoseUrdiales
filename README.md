@@ -2,7 +2,7 @@
 
 
 ### 1. ¿Qué lenguajes de programación a usado?
-Java, python, scala
+Java, python, scala, html
 ### 2. ¿Qué comandos conoce de GIT?
 push, commit, add .
 ### 3. Ejemplifique el comando de Linux: mv
